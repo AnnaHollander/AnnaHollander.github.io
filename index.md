@@ -5,4 +5,3 @@
 <p1>I'm hosted with GitHub Pages.</p
 /body
 /html
-theme: jekyll-theme-cayman
