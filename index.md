@@ -4,5 +4,4 @@
 <h1> Comic Strip </h1> 
 <p> Here is a comic strip to  I made using the program 'pixton.'to better tell you a little bit about myself. </p>
 <iframe src="//www.pixton.com/embed/yd8obfwx" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
-</body>
-</html>
+
