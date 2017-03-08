@@ -7,4 +7,4 @@
 <h1> Timeline </h1>
 <p> "That's one of the great thingsa bout music. You can sing a song to 85,000 people and they'll sing back for 85,000 different reasons." -Dave Grohl </p>
 <p> [Text about Springsteen and power of music politcally] </p>
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
