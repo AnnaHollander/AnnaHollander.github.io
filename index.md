@@ -16,7 +16,7 @@
 
 <h1> Google Fusion Map </h1>
 <p> [In my free time I love to spend hours sifting through crates of records and hunting for hidden gems. I wanted to shared the best and most diverse record stores. I made this map using google fushion as a guide to record stores in NYC so everyone can enjoy...] </p>
-<iframe width="100" height="60" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1O27WV41IS5l5pOc83wYd3yFkjPN3YAhIatW23nTk&amp;viz=MAP&amp;h=false&amp;lat=40.73394974974567&amp;lng=-73.95545433809048&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="500" height="350" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1O27WV41IS5l5pOc83wYd3yFkjPN3YAhIatW23nTk&amp;viz=MAP&amp;h=false&amp;lat=40.73394974974567&amp;lng=-73.95545433809048&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 <h1> Interactive Map </h1>
 <p> [Magic of live music. Love festivals, there is no better way to spend your time.  Truly shows how music brings everyone together and so much happiness.] I wanted to show the top festivals by location so I created an interactive map using tableau. </p>
 <md>
