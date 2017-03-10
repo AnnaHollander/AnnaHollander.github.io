@@ -9,6 +9,7 @@
 <p> [Text about Springsteen and power of music politcally] I created this timeline using TimelineJS. </p>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <h1> Time Series Chart </h1>
+"Music is forever; music should grow and mature with you, following you right on up until you die." -Paul Simon
 <p> [Write about genre changes and evoltion of music.] I created a line chart using chartbuilder to show how the popularity of different genres have changed in the U.S. over the past 10 years. </p>
 ![Music Sales by Genre](https://annahollander.github.io/MusicGenres.png)
 [U.S. Genre Preferences based on Music Sales](https://annahollander.github.io/MusicGenres.html)
