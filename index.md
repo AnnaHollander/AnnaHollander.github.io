@@ -6,16 +6,17 @@
 <iframe src="//www.pixton.com/embed/yd8obfwx" frameborder="0" width="100%" height="284" allowfullscreen></iframe>
 <h1> Timeline </h1>
 <p> "That's one of the great things about music. You can sing a song to 85,000 people and they'll sing back for 85,000 different reasons." -Dave Grohl </p>
-<p> [Text about Springsteen and power of music politcally] I created this timeline using TimelineJS. </p>
+<p> I grew up in a family that lives and breathes Bruce Springsteen. I knew how to sing Born To Run before I could tie my own shoes. One of the most powerful qualities of music is it's ability to speak out against injustice and bring people together  during times of turmoil. I wanted to show how music is a reaction to what is happening in the world by showing political conflict based on the topic of Bruce Springsteen's songs. I decided to visually represent this unique quality of music through a timeline which was made using TimelineJS.</p>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <h1> Time Series Chart </h1>
 "Music is forever; music should grow and mature with you, following you right on up until you die." -Paul Simon
-<p> [Write about genre changes and evoltion of music.] I created a line chart using chartbuilder to show how the popularity of different genres have changed in the U.S. over the past 10 years. </p>
+<p> As someone who is always keeping up with new music, I wanted to see how popular music preferences have changed over an extended period. I created a line chart using chartbuilder to show how the popularity of different genres have changed in the U.S. over the past 10 years. </p>
 ![Music Sales by Genre](https://annahollander.github.io/MusicGenres.png)
 [U.S. Genre Preferences based on Music Sales](https://annahollander.github.io/MusicGenres.html)
 <h1> Google Fusion Map </h1>
 "Well, everybody faces the fact there really aren't many record stores around to just go and browse. Maybe browse online, yet that tactile feel of flipping though a stack of vinyl remains one of life's simple pleasures." - Billy Gibbons
-<p> [In my free time I love to spend hours sifting through crates of records and hunting for hidden gems. I wanted to shared the best and most diverse record stores. I made this map using google fushion as a guide to record stores in NYC so everyone can enjoy...] </p>
+<p> Listening to vinyl is like listening to music in its most lively natural form. One of my favorite ways to spend free time is hidden in the record stores scattered around the lower east side. There is nothing as an incredible as the experience of discovering music while sifting through crates of unknown albums and artists. I want to help keep these stores alive so I decided to make a map using google fusion to make it easy for everyone to get lost in the bins of albums.
+ </p>
 <iframe width="500" height="350" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1O27WV41IS5l5pOc83wYd3yFkjPN3YAhIatW23nTk&amp;viz=MAP&amp;h=false&amp;lat=40.73394974974567&amp;lng=-73.95545433809048&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 <h1> Interactive Map </h1>
 <p> "Music is a world within itself; it is a language we all understand." -Stevie Wonder
@@ -25,6 +26,6 @@
 </md>
 <br>
 <h1>Infographic</h1>
-<p> Care about diveristy. I wanted to show how diverse, or rather not diverse, Lehigh is. Made this using Canva. </p>
+<p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I decide to create infographic using Canva to demonstrate the breakdown of races on campus. </p>
 ![Infographic of Student Diversity at Lehigh](https://annahollander.github.io/lehighdiversity.png)
 [Infographic of Student Diversity at Lehigh](https://annahollander.github.io/LehighDiversity.html)
