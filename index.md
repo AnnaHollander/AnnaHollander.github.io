@@ -28,5 +28,4 @@
 <h1>Infographic</h1>
 <p>"Ethinc diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I decide to create infographic using Canva to demonstrate the breakdown of races on campus. </p>
-<h2>Lehigh Undergraduate Race and Ethnicity Distribution</h2>
-![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh](https://AnnaHollander.github.io/lehighdiversity.png)
+![Infographic of Undergraduate Race and Ethnicity Distribution at Lehigh] (https://AnnaHollander.github.io/lehighdiversity.png)
