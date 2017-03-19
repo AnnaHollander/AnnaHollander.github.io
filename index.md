@@ -7,7 +7,7 @@
 <h1> Timeline </h1>
 <p> "That's one of the great things about music. You can sing a song to 85,000 people and they'll sing back for 85,000 different reasons." -Dave Grohl </p>
 <p> I grew up in a family that lives and breathes Bruce Springsteen. I knew how to sing Born To Run before I could tie my own shoes. One of the most powerful qualities of music is its ability to speak out against injustice and bring people together  during times of turmoil. I wanted to show how music is a reaction to what is happening in the world by showing political conflict based on the topic of Bruce Springsteen's songs. I decided to visually represent this unique quality of music through a timeline which was made using TimelineJS.</p>
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <h1> Time Series Chart </h1>
 "Music is forever; music should grow and mature with you, following you right on up until you die." -Paul Simon
 <p> As someone who is always keeping up with new music, I wanted to see how popular music preferences have changed over an extended period. I created a line chart using chartbuilder to show how the popularity of different genres have changed in the U.S. over the past 10 years. </p>
