@@ -6,7 +6,7 @@
 <iframe src="//www.pixton.com/embed/yd8obfwx" frameborder="0" width="100%" height="284" allowfullscreen></iframe>
 <h1> Timeline </h1>
 <p> "That's one of the great things about music. You can sing a song to 85,000 people and they'll sing back for 85,000 different reasons." -Dave Grohl </p>
-<p> I grew up in a family that lives and breathes Bruce Springsteen. I knew how to sing Born To Run before I could tie my own shoes. One of the most powerful qualities of music is it's ability to speak out against injustice and bring people together  during times of turmoil. I wanted to show how music is a reaction to what is happening in the world by showing political conflict based on the topic of Bruce Springsteen's songs. I decided to visually represent this unique quality of music through a timeline which was made using TimelineJS.</p>
+<p> I grew up in a family that lives and breathes Bruce Springsteen. I knew how to sing Born To Run before I could tie my own shoes. One of the most powerful qualities of music is its ability to speak out against injustice and bring people together  during times of turmoil. I wanted to show how music is a reaction to what is happening in the world by showing political conflict based on the topic of Bruce Springsteen's songs. I decided to visually represent this unique quality of music through a timeline which was made using TimelineJS.</p>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1XtLSnsPB0Brjt6tOeZ3HwN1gpM08vd6G71t_JI7YwyI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='750' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 <h1> Time Series Chart </h1>
 "Music is forever; music should grow and mature with you, following you right on up until you die." -Paul Simon
@@ -15,7 +15,7 @@
 [U.S. Genre Preferences based on Music Sales](https://annahollander.github.io/MusicGenres.html)
 <h1> Google Fusion Map </h1>
 "Well, everybody faces the fact there really aren't many record stores around to just go and browse. Maybe browse online, yet that tactile feel of flipping though a stack of vinyl remains one of life's simple pleasures." - Billy Gibbons
-<p> Listening to vinyl is like listening to music in its most lively and natural form. One of my favorite ways to spend free time is hidden in the record stores scattered around the lower east side. There is nothing as an incredible as the experience of discovering music while sifting through crates of unknown albums and artists. I decided to make a map using Google Fusion to make it easy for everyone to get lost in the bins of albums.
+<p> Listening to vinyl is like listening to music in its most lively and natural form. One of my favorite ways to spend free time is hidden in the record stores scattered around the lower east side. There is nothing as incredible as the experience of discovering music while sifting through crates of unknown albums and artists. I decided to make a map using Google Fusion to make it easy for everyone to get lost in the bins of albums.
  </p>
 <iframe width="500" height="350" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1O27WV41IS5l5pOc83wYd3yFkjPN3YAhIatW23nTk&amp;viz=MAP&amp;h=false&amp;lat=40.73394974974567&amp;lng=-73.95545433809048&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 <h1> Interactive Map </h1>
@@ -28,8 +28,7 @@
 <h1>Infographic</h1>
 <p>"Ethnic diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I created an infographic using Canva to demonstrate the breakdown of races on campus. </p>
-![Student Diversity at Lehigh](https://annahollander.github.io/lehighdiversity.png) 
-[Lehigh Student Population by Race](https://annahollander.github.io/LehighDiversity.html)
+<a href="https://annahollander.github.io/LehighDiversity.html>Infographic</a></p>
 <h1> Contact Me! </h1>
 <p> Email: aph218@lehigh.edu </p>
-<p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/">LinkedIn</a><p>
+<p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/>LinkedIn</a></p>
