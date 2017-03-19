@@ -31,4 +31,5 @@
 <a href="https://annahollander.github.io/LehighDiversity.html>Infographic</a></p>
 <h1> Contact Me! </h1>
 <p> Email: aph218@lehigh.edu </p>
-<p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/>LinkedIn</a></p>
+<p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/">LinkedIn</a><p>
+
