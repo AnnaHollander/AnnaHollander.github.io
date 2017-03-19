@@ -27,9 +27,9 @@
 <br>
 <a href="https://annahollander.github.io/MusicFestivals.html></a></p>
 <h1>Infographic</h1>
-<p>"Ethnic diversity adds richness to a society."- Gary Locke </p>
+<p>"Ethnic diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I created an infographic using Canva to demonstrate the breakdown of races on campus. </p>
 <a href="https://annahollander.github.io/LehighDiversity.html>Infographic</a></p>
 <h1> Contact Me! </h1>
 <p> Email: aph218@lehigh.edu </p>
-<p> Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b>LinkedIn</a></p>
+<p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/">LinkedIn</a><p>
