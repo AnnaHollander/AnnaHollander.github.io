@@ -27,12 +27,10 @@
 <br>
 <a href="https://annahollander.github.io/MusicFestivals.html">Top Gross Music Festivals in 2016</a>
 <br>
-<md>
-[Top Gross Music Festivals in 2016](https://annahollander.github.io/MusicFestivals.html)
-</md>
 <h1>Infographic</h1>
 <p>"Ethnic diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I created an infographic using Canva to demonstrate the breakdown of races on campus.</p>
+<img src="https://annahollander.github.io/lehighdiversity.png">
 ![Lehigh Student Body Brekadown by Race](https://annahollander.github.io/lehighdiversity.png)
 [Diversity at Lehigh]
 (https://annahollander.github.io/LehighDiversity.html)
