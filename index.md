@@ -27,10 +27,15 @@
 <br>
 <a href="https://annahollander.github.io/MusicFestivals.html">Top Gross Music Festivals in 2016</a>
 <br>
+<h1> Magazine Spread</h1>
+<p> Here is a magazine spread I created for the LU Electronic Music Society using InDesign.
+<img src="https://annahollander.github.io/lehighdiversity.png">
 <h1>Infographic</h1>
 <p>"Ethnic diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I created an infographic using Canva to demonstrate the breakdown of races on campus.</p>
-<img src="https://annahollander.github.io/lehighdiversity.png">
+<img src="annahollander.github.io/LUEMS.png">
+<img src="annahollander.github.io/LUEMS2.png">
+<img src="annahollander.github.io/LUEMS3.png">
 <h1> Contact Me! </h1>
 <p> Email: aph218@lehigh.edu </p>
 <p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/">LinkedIn</a></p>
