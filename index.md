@@ -39,7 +39,7 @@
 <p>"Ethnic diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I created an infographic using Canva to demonstrate the breakdown of races on campus.</p>
 <img src="https://annahollander.github.io/lehighdiversity.png">
-<h1> Read my other work! </h2>
+<h1> Read my other work! </h1>
 <a href="https://ahollanderblog.wordpress.com/">Music Blog</a></p>
 <a href="http://thebrownandwhite.com/author/aph218/">Published Articles</a></p>
 <h1> Contact Me! </h1>
