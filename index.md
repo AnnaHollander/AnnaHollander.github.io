@@ -34,6 +34,7 @@
 <img src="http://annahollander.github.io/LUEMS3.png">
 <h1> Video Project </h1>
 <p> Here is an accompanying video I made for the LU Electronic Music Society using Final Cut Pro.
+<p> Check it out!
 <a href="https://drive.google.com/file/d/0B8MOVIrCKbzXYzlBa3dJc0ljaDg/view">LU Electronic Music Society Video</a></p>
 <h1>Infographic</h1>
 <p>"Ethnic diversity adds richness to a society."- Gary Locke
