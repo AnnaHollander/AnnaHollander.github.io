@@ -34,7 +34,7 @@
 <img src="http://annahollander.github.io/LUEMS3.png">
 <h1> Video Project </h1>
 <p> Here is an accompanying video I made for the LU Electronic Music Society using Final Cut Pro.
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<a href="https://drive.google.com/file/d/0B8MOVIrCKbzXYzlBa3dJc0ljaDg/view">LU Electronic Music Society Video</a></p>
 <h1>Infographic</h1>
 <p>"Ethnic diversity adds richness to a society."- Gary Locke
 <p> As a student at Lehigh University who lived in a big city with incredible diversity, I wanted to see how diverse Lehigh is. I created an infographic using Canva to demonstrate the breakdown of races on campus.</p>
