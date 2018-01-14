@@ -1,6 +1,6 @@
 <h1>Anna Hollander</h1>
 <p> "Without music, life would be a mistake."- Friedrich Nietzsche </p>
-<p> Hi! My name is Anna Hollander. I am a senior at Lehigh University majoring in Journalism and Communications, with double minor in Music and Music Industry. My coursework has included data journalism and visualization as well as courses in music marketing, production, and theory and writing for media. During my academic career, I learned how to tell powerful and effective stories in a creative and interdisciplainary way. Here is a sampling of the different types of Data Visualizations that I have created. I hope you enjoy them! </p>
+<p> Hi! My name is Anna Hollander. I am a senior at Lehigh University majoring in Journalism and Communications, with double minor in Music and Music Industry. My coursework has included data journalism and visualization, as well as courses in music marketing, production, and theory and writing for media. During my academic career, I learned how to tell powerful and effective stories in a creative and interdisciplainary way. Here is a sampling of the different types of Data Visualizations that I have created. I hope you enjoy them! </p>
 <h1> Comic Strip </h1> 
 <p> Here is a comic strip I made using the program 'pixton.' to better tell you a little bit about myself. </p>
 <iframe src="//www.pixton.com/embed/yd8obfwx" frameborder="0" width="100%" height="284" allowfullscreen></iframe>
