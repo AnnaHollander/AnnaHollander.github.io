@@ -42,7 +42,8 @@
 <img src="https://annahollander.github.io/lehighdiversity.png">
 <h1> Read my other work! </h1>
 <a href="https://ahollanderblog.wordpress.com/">Music Blog</a></p>
-<a href="http://thebrownandwhite.com/author/aph218/">Published Articles</a></p>
+<a href="http://thebrownandwhite.com/author/aph218/">University Published Articles</a></p>
+<a href="https://collegecandy.com/author/annahollander4/">More Published Work</a></p>
 <h1> Contact Me! </h1>
 <p> Email: aph218@lehigh.edu </p>
 <p>Connect with me on <a href="https://www.linkedin.com/in/anna-hollander-80216a10b/">LinkedIn</a></p>
